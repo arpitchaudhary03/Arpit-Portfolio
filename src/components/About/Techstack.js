@@ -20,27 +20,35 @@ function Techstack() {
 
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+        <h3 style={{ paddingBottom: "10px" }}>ReactJS</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiExpress />
+        <h3 style={{ paddingBottom: "10px" }}>ExpressJS</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+        <h3 style={{ paddingBottom: "10px" }}>NodeJS</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
+        <h3 style={{ paddingBottom: "10px" }}>MongoDB</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+        <h3 style={{ paddingBottom: "10px" }}>JavaScript</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTypescript />
+        <h3 style={{ paddingBottom: "10px" }}>TypeScript</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
+        <h3 style={{ paddingBottom: "10px" }}>GitHub</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiCypress />
+        <h3 style={{ paddingBottom: "10px" }}>Cypress.io</h3>
       </Col>
 
     </Row>
