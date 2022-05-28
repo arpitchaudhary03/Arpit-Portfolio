@@ -26,6 +26,7 @@ function Projects() {
               description="This Application is built using Reactjs, Nodejs, Expressjs and MongoDB which includes all the operations such as Creating, Deleting, Updating and Displaying the User."
               link="https://github.com/arpitchaudhary03/app/tree/master"
             />
+
           </Col>
 
           <Col md={4} className="project-card">
@@ -33,7 +34,8 @@ function Projects() {
               imgPath={tatacliq}
               isBlog={false}
               title="Inspired From Tata Cliq"
-              description="Tata Cliq (stylised as Tata CLiQ) is an Indian e-commerce company based in Mumbai, India.It is owned by Tata Digital Limited, of Tata Group. TataCLiQ operates in categories such as Electronics, Fashion, Footwear and Accessories. Tata Group's E-commerce platform Tata CLiQ also launched a premium and luxury fashion and lifestyle destination, Tata CLiQ Luxury and It have house a wide range of apparel and accessories for men and women by luxury and bridge-to-luxury brands."
+              description="The website is built using Reactjs, HTML, CSS, JavaScript
+               Tata Cliq (stylised as Tata CLiQ) is an Indian e-commerce company based in Mumbai, India.It is owned by Tata Digital Limited, of Tata Group. TataCLiQ operates in categories such as Electronics, Fashion, Footwear and Accessories. Tata Group's E-commerce platform Tata CLiQ also launched a premium and luxury fashion and lifestyle destination, Tata CLiQ Luxury and It have house a wide range of apparel and accessories for men and women by luxury and bridge-to-luxury brands."
               link="https://github.com/arpitchaudhary03/Tata-Cliq"
             />
           </Col>
@@ -43,7 +45,8 @@ function Projects() {
               imgPath={sephoranow}
               isBlog={false}
               title="Inspired from Sephora NNNOW"
-              description="Sephora is a French multinational retailer of personal care and beauty products. Featuring nearly 340 brands, along with its own private label, Sephora Collection, Sephora offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, body lotions and haircare."
+              description="The website is built using Reactjs, HTML, CSS, JavaScript
+              Sephora is a French multinational retailer of personal care and beauty products. Featuring nearly 340 brands, along with its own private label, Sephora Collection, Sephora offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, body lotions and haircare."
               link="https://github.com/arpitchaudhary03/Sephora-nnnow.com-clone"
             />
           </Col>
