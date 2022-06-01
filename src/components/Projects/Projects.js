@@ -28,7 +28,7 @@ function Projects() {
               ●The frontend is built using React and  Material-UI and Axios is used for the frontend API calling.
               ●MongoDB is used as  a database and the APIs of the backend are called using Node.js.
               ●The app is  deployed on Heroku as well."
-              link="https://github.com/arpitchaudhary03/app/tree/master"
+              link="https://mernarpit.herokuapp.com/"
             />
 
           </Col>
@@ -43,7 +43,8 @@ function Projects() {
               ●Integrated the headers, footers and other components to the application.
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
-              link="https://github.com/arpitchaudhary03/Tata-Cliq"
+              // link="https://github.com/arpitchaudhary03/Tata-Cliq"
+              link="https://zesty-baklava-77a6db.netlify.app/"
             />
           </Col>
 
@@ -57,7 +58,7 @@ login/signup auth."
               ●Integrated the headers, footers and other components to the application.
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
-              link="https://github.com/arpitchaudhary03/Sephora-nnnow.com-clone"
+              link="https://fascinating-lily-608479.netlify.app/"
             />
           </Col>
 
