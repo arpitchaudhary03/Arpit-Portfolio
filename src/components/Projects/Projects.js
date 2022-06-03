@@ -25,9 +25,8 @@ function Projects() {
               title="MERN Stack CRUD Application"
               description="This Application is built using Reactjs, Nodejs, Expressjs and MongoDB which includes all the operations such as Creating, Deleting, Updating and Displaying the User.
               ●Built the whole application from scratch.
-              ●The frontend is built using React and  Material-UI and Axios is used for the frontend API calling.
-              ●MongoDB is used as  a database and the APIs of the backend are called using Node.js.
-              ●The app is  deployed on Heroku as well."
+              ●The frontend is built using React and  Material-UI and Axios is used for the frontend API calling."
+
               link="https://mernarpit.herokuapp.com/"
             />
 

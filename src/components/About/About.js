@@ -1,18 +1,20 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import Particle from "../Particle";
-import Github from "./Github";
-import Techstack from "./Techstack";
-import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
-import Toolstack from "./Toolstack";
+import { Container } from "react-bootstrap";
+import Particle from "../Particle.js";
+// import Github from "./Github.js";
+// import Techstack from "./Techstack.js";
+// import Aboutcard from "./AboutCard";
+// import laptopImg from "../../Assets/about.png";
+// import Toolstack from "./Toolstack.js";
+import Home2 from "../Home/Home2";
 
 function About() {
   return (
     <Container fluid className="about-section">
       <Particle />
       <Container>
-        <Row style={{ justifyContent: "center", padding: "10px" }}>
+        <Home2 />
+        {/* <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             md={7}
             style={{
@@ -33,8 +35,8 @@ function About() {
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
-        </Row>
-        <h1 className="project-heading">
+        </Row> */}
+        {/* <h1 className="project-heading">
           <strong className="purple">Skillset </strong>
         </h1>
 
@@ -45,7 +47,7 @@ function About() {
         </h1>
         <Toolstack />
 
-        <Github />
+        <Github /> */}
       </Container>
     </Container>
   );
