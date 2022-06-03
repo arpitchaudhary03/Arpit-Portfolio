@@ -12,6 +12,7 @@ import {
   SiTypescript,
   SiExpress,
   SiCypress,
+  SiRedux,
 } from "react-icons/si";
 
 function Techstack() {
@@ -49,6 +50,11 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiCypress />
         <h3 style={{ paddingBottom: "10px" }}>Cypress.io</h3>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiRedux />
+        <h3 style={{ paddingBottom: "10px" }}>Redux</h3>
       </Col>
 
     </Row>
