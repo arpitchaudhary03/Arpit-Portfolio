@@ -23,11 +23,13 @@ function Projects() {
               imgPath={crud}
               isBlog={false}
               title="MERN Stack CRUD Application"
-              description="This Application is built using Reactjs, Nodejs, Expressjs and MongoDB which includes all the operations such as Creating, Deleting, Updating and Displaying the User.
+              description="Tech Stack Used: ●Reactjs ●Nodejs ●Expressjs ●MongoDB 
+              ●Includes all the operations such as Creating, Deleting, Updating and Displaying the User.
               ●Built the whole application from scratch.
               ●The frontend is built using React and  Material-UI and Axios is used for the frontend API calling."
 
               link="https://mernarpit.herokuapp.com/"
+              codeLink="https://github.com/arpitchaudhary03/app/tree/master"
             />
 
           </Col>
@@ -37,13 +39,13 @@ function Projects() {
               imgPath={tatacliq}
               isBlog={false}
               title="Inspired From Tata Cliq"
-              description="The website is built using Reactjs, HTML, CSS, JavaScript.
+              description="Tech Stack Used: ●Reactjs ●HTML ●CSS ●JavaScript.
               ●Developed the Landing page integrating various animations and sliders.
               ●Integrated the headers, footers and other components to the application.
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
-              // link="https://github.com/arpitchaudhary03/Tata-Cliq"
-              link="https://zesty-baklava-77a6db.netlify.app/"
+              codeLink="https://github.com/arpitchaudhary03/Tata-Cliq"
+              link="https://tata-cliq.vercel.app/"
             />
           </Col>
 
@@ -52,12 +54,13 @@ login/signup auth."
               imgPath={sephoranow}
               isBlog={false}
               title="Inspired from Sephora NNNOW"
-              description="The website is built using Reactjs, HTML, CSS, JavaScript
+              description="Tech Stack Used: ●Reactjs ●HTML ●CSS ●JavaScript
               ●Developed the Landing page integrating various animations and sliders.
               ●Integrated the headers, footers and other components to the application.
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
               link="https://fascinating-lily-608479.netlify.app/"
+              codeLink="https://github.com/arpitchaudhary03/Sephora-nnnow.com-clone"
             />
           </Col>
 
