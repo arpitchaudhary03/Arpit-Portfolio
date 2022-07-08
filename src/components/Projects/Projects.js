@@ -54,13 +54,13 @@ login/signup auth."
               imgPath={sephoranow}
               isBlog={false}
               title="Inspired from Sephora NNNOW"
-              description="Tech Stack Used: ●Reactjs ●HTML ●CSS ●JavaScript
+              description="Tech Stack Used: ●HTML ●CSS ●JavaScript
               ●Developed the Landing page integrating various animations and sliders.
               ●Integrated the headers, footers and other components to the application.
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
-              link="https://fascinating-lily-608479.netlify.app/"
-              codeLink="https://github.com/arpitchaudhary03/Sephora-nnnow.com-clone"
+              link="https://suspicious-mccarthy-90cb20.netlify.app/"
+              codeLink="https://github.com/arpitchaudhary03/SephoraProject"
             />
           </Col>
 
