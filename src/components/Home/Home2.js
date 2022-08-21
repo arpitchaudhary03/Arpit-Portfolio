@@ -8,7 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-
+//  with a specialization in MERN stack.
 function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
@@ -19,16 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a Hard Working, Passionate and Dedicated Engineering Graduate with a specialization in MERN Stack.
-              <br />
-              <br />I am fluent in technologies like
-              <i>
+              Tech-driven, Passionate and Dedicated Engineering Graduate with a specialization in MERN Stack.
+              {/* <br />
+              <br />  */}
+              &nbsp;I love to work on purposeful and meaningful projects that probably add some value to my skills and knowledge as well as the product and solve already existing problems.
+              {/* <i>
                 <b className="purple"> Reactjs, Nodejs, Expressjs, MongoDB, JavaScript, TypeScript, HMTL, CSS and Git. </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              </i> */}
+              {/* <br />
+              <br /> */}
+              &nbsp;Looking forward to working with a team where people are always ready to help the mob by solving a problem existing in society.
+              {/* with <b className="purple">Next.js</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -37,8 +38,8 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js.</b>
-              </i>
+                <b className="purple"> Vue.js.</b>
+              </i> */}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
