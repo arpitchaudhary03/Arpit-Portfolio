@@ -28,7 +28,7 @@ function Home2() {
               </i> */}
               {/* <br />
               <br /> */}
-              &nbsp;Looking forward to working with a team where people are always ready to help the mob by solving a problem existing in society.
+              &nbsp;Looking forward to working with a team where people are always ready to help the mob by providing solutions.
               {/* with <b className="purple">Next.js</b> and
               <i>
                 <b className="purple">
