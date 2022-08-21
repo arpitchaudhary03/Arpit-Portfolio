@@ -24,8 +24,8 @@ function Projects() {
               isBlog={false}
               title="MERN Stack CRUD Application"
               description="Tech Stack Used: ●Reactjs ●Nodejs ●Expressjs ●MongoDB 
-              ●Includes all the operations such as Creating, Deleting, Updating and Displaying the User.
-              ●Built the whole application from scratch.
+              ●Includes all the operations such as Creating, Deleting, Updating and Displaying the User
+              ●Built the whole application from scratch
               ●The frontend is built using React and  Material-UI and Axios is used for the frontend API calling."
 
               link="https://mernarpit.herokuapp.com/"
@@ -39,9 +39,9 @@ function Projects() {
               imgPath={tatacliq}
               isBlog={false}
               title="Inspired From Tata Cliq"
-              description="Tech Stack Used: ●Reactjs ●HTML ●CSS ●JavaScript.
-              ●Developed the Landing page integrating various animations and sliders.
-              ●Integrated the headers, footers and other components to the application.
+              description="Tech Stack Used: ●Reactjs ●HTML ●CSS ●JavaScript
+              ●Developed the Landing page integrating various animations and sliders
+              ●Integrated the headers, footers and other components to the application
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
               codeLink="https://github.com/arpitchaudhary03/Tata-Cliq"
@@ -55,8 +55,8 @@ login/signup auth."
               isBlog={false}
               title="Inspired from Sephora NNNOW"
               description="Tech Stack Used: ●HTML ●CSS ●JavaScript
-              ●Developed the Landing page integrating various animations and sliders.
-              ●Integrated the headers, footers and other components to the application.
+              ●Developed the Landing page integrating various animations and sliders
+              ●Integrated the headers, footers and other components to the application
               ●Worked collaboratively on various functionalities such as payment and
 login/signup auth."
               link="https://suspicious-mccarthy-90cb20.netlify.app/"
