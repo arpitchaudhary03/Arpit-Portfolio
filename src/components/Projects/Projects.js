@@ -33,7 +33,7 @@ function Projects() {
               ●Checkout Page"
 
               link="https://clone-kfc.netlify.app/"
-              codeLink="https://github.com/arpitchaudhary03/app/tree/master"
+              codeLink="https://github.com/arpitchaudhary03/Kentucky-Fried-Chicken-Clone"
             />
           </Col>
 
