@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import sephoranow from "../../Assets/Projects/sephoranow.png";
 import crud from "../../Assets/Projects/crud.png";
 import tatacliq from "../../Assets/Projects/tatacliq.png";
-
+import kfc from "../../Assets/Projects/kfc.png"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -18,6 +18,26 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kfc}
+              isBlog={false}
+              title="Kentucky Fried Chicken Clone"
+              description="Tech Stack Used: ●HTML5 ●CSS3 ●Javascropt ●ReactJS ●Redux ●NodeJS ●ExpressJS ●React Icons ●React Slick ●MongoDB 
+              ●Authentication
+              ●Landing Page & Food Gallery
+              ●Payment Gateway
+              ●Menu Page
+              ●User Cart
+              ●Checkout Page"
+
+              link="https://clone-kfc.netlify.app/"
+              codeLink="https://github.com/arpitchaudhary03/app/tree/master"
+            />
+          </Col>
+
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={crud}
